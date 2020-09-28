@@ -1,7 +1,7 @@
-import 'package:flutter_food_delivery_ui/models/food.dart';
-import 'package:flutter_food_delivery_ui/models/order.dart';
-import 'package:flutter_food_delivery_ui/models/restaurant.dart';
-import 'package:flutter_food_delivery_ui/models/user.dart';
+import 'package:FoodiesApp/models/food.dart';
+import 'package:FoodiesApp/models/order.dart';
+import 'package:FoodiesApp/models/restaurant.dart';
+import 'package:FoodiesApp/models/user.dart';
 
 // Food
 final _burrito =
